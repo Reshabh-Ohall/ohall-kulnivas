@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ohall-kulnivas/static/css/main.d5879d96.css",
+    "main.js": "/ohall-kulnivas/static/js/main.a2a4e0f8.js",
+    "static/js/488.fccd922f.chunk.js": "/ohall-kulnivas/static/js/488.fccd922f.chunk.js",
+    "index.html": "/ohall-kulnivas/index.html",
+    "static/media/Mir-Medium.woff2": "/ohall-kulnivas/static/media/Mir-Medium.b4ff7c39a7617cf069d2.woff2",
+    "static/media/Geomanist-ExtraLight-Italic.woff2": "/ohall-kulnivas/static/media/Geomanist-ExtraLight-Italic.8c422511ee5fa30c5319.woff2",
+    "static/media/Geomanist-ExtraLight.woff2": "/ohall-kulnivas/static/media/Geomanist-ExtraLight.852e2036185a34f631f4.woff2",
+    "static/media/Geomanist-Black-Italic.woff2": "/ohall-kulnivas/static/media/Geomanist-Black-Italic.f04a5620bb421abfb820.woff2",
+    "static/media/Geomanist-Medium.woff2": "/ohall-kulnivas/static/media/Geomanist-Medium.fcb10c8396f02b5d8b5b.woff2",
+    "static/media/Geomanist-Black.woff2": "/ohall-kulnivas/static/media/Geomanist-Black.b74a15de1659268e3012.woff2",
+    "static/media/Geomanist-Light-Italic.woff2": "/ohall-kulnivas/static/media/Geomanist-Light-Italic.eb8d461f6e972241f2b8.woff2",
+    "static/media/Geomanist-Medium-Italic.woff2": "/ohall-kulnivas/static/media/Geomanist-Medium-Italic.c340dcf39d3ad88e2e58.woff2",
+    "static/media/Geomanist-Book.woff2": "/ohall-kulnivas/static/media/Geomanist-Book.cd8b24a343d7ecbd7da5.woff2",
+    "static/media/Geomanist-Light.woff2": "/ohall-kulnivas/static/media/Geomanist-Light.afe2b54082c9fbce679b.woff2",
+    "main.d5879d96.css.map": "/ohall-kulnivas/static/css/main.d5879d96.css.map",
+    "main.a2a4e0f8.js.map": "/ohall-kulnivas/static/js/main.a2a4e0f8.js.map",
+    "488.fccd922f.chunk.js.map": "/ohall-kulnivas/static/js/488.fccd922f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5879d96.css",
+    "static/js/main.a2a4e0f8.js"
+  ]
+}
